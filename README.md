@@ -1,4 +1,4 @@
 # Audio_Blackmail_Detection
 
-## you can run the code using the coomand 
-streamlit run bmail.py
+## you can run the code using the command 
+  streamlit run bmail.py
