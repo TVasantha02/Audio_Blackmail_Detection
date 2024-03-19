@@ -4,7 +4,7 @@ import tensorflow as tf
 from wit import Wit
 
 # Initialize Wit.ai client
-wit_client = Wit("NNNUPGZ64AARYE5QWTYBC32ZBGK3P3FC")
+wit_client = Wit("YOUR_WIT_KEY")
 
 # Initialize the BERT model and tokenizer
 model_name = "bert-base-uncased"
